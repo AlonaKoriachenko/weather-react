@@ -11,18 +11,12 @@ export default function OpenSource() {
           </a>
         </div>
         <a
-          href="https://github.com/AlonaKoriachenko/project-weather-app"
+          href="https://github.com/AlonaKoriachenko/weather-react"
           target="_blank"
         >
           Open-source code,
         </a>{" "}
         by Alona Koriachenko
-        <input
-          type="image"
-          src="images/Logo-linkedin.png"
-          class="sticker-lkd"
-          onclick="goLinkedin()"
-        />
       </small>
     </div>
   );
