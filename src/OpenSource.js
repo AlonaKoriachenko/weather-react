@@ -6,13 +6,18 @@ export default function OpenSource() {
       <small>
         <div>
           Hosted with{" "}
-          <a href="https://zingy-paprenjak-a89e94.netlify.app/" target="_blank">
+          <a
+            href="https://zingy-paprenjak-a89e94.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             Netlify
           </a>
         </div>
         <a
           href="https://github.com/AlonaKoriachenko/weather-react"
           target="_blank"
+          rel="noreferrer"
         >
           Open-source code,
         </a>{" "}
